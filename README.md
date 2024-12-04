@@ -1,6 +1,5 @@
 # Amazon-Alexa-Reviews
 
-
 ## HOW TO RUN
 
 Step 1: Clone the repository
